@@ -5,6 +5,6 @@
  * @since 2023-08-29
  */
 
-let msg : string = 'Bonjour';
+let msg = 'Bonjour';
 
 console.log(msg);
