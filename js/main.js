@@ -6,6 +6,8 @@
  */
 "use strict";
 
-let msg = "Bonjour";
+//Récupérer tous les paragraphes du document
+let tabPara = document.querySelector("p");
 
-console.log(msg);
+//Affiche le contenu des variables dans la console
+console.log(tabPara);
